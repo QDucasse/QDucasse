@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the RISC-V ISA, setting up attacks and defenses, as well as its interaction with languages VMs (such as [Pharo](https://github.com/pharo-project/pharo-vm)).
 - 🌱 I’m interested in software/hardware security solutions and looking to learn more about their OS integration.
-- 🧑‍🎓 I recently defended my thesis intitled "Hardware Security for Just-in-Time Compilation in Language Virtual Machines", you can download the slides [here](https://nuage.cpdt.fr/s/bFBrtRSCW8KQL3z) (in French).
+- 🧑‍🎓 I recently defended my thesis intitled "Hardware Security for Just-in-Time Compilation in Language Virtual Machines", you can download the slides [here](https://nuage.cpdt.fr/s/cBgNDH2PqARZ5pz) (in French) or the complete thesis manuscript [here](https://nuage.cpdt.fr/s/EJ43wmdRmFx6SEb) (in English).
 - 📫 How to reach me: quentin.ducasse@ensta-bretagne.org, or on [Twitter](https://twitter.com/quentin_ducasse)
 
 <!--
