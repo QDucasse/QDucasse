@@ -2,8 +2,9 @@
 
 ---
 
-- 🔭 I’m currently working on a DIFT (Dynamic Information Flow Tracking) system based on LLVM passes and the ARM CoreSight tracing component.
-- 🌱 I’m interested in software/hardware security solutions and looking to learn more about their OS integration! I worked on the RISC-V ISA, extending it for the security of language VMs (such as [Pharo](https://github.com/pharo-project/pharo-vm))
+- 🔭 I’m currently working on an Information Flow Tracking system based on LLVM passes and the ARM CoreSight tracing component.
+- 🌱 I’m interested in software/hardware security solutions and looking to learn more about their OS integration!
+- ⚡ I worked on the RISC-V ISA, extending it for the security of language VMs (such as [Pharo](https://github.com/pharo-project/pharo-vm))
 - 🧑‍🎓 I recently defended my thesis intitled "Hardware Security for Just-in-Time Compilation in Language Virtual Machines", you can download the slides [here](https://nuage.cpdt.fr/s/cBgNDH2PqARZ5pz) (in French) or the complete thesis manuscript [here](https://nuage.cpdt.fr/s/EJ43wmdRmFx6SEb) (in English).
 - 📫 How to reach me: quentin.ducasse@centralesupelec.fr
 
